@@ -1,6 +1,6 @@
 # crypto API
 
-A crypto API made using Django Rest Framework. This API provides you a dashboard that displays crypto prices and other details (that are updated every 15 min), a conversion endpoint, and
+A crypto API made using Django Rest Framework 3.13.1. This API provides you a dashboard that displays crypto prices and other details (that are updated every 15 min), a conversion endpoint, and
 an endpoint that compares prices of a specific crypto from two input dates that are passed as a url parameter. To make this API, i used other two crypto API's: coinAPI
 and CoinMarketCapAPI.
 
